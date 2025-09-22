@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>株式会社〇〇 公告</title>
+  <title>株式会社エイトドリーム不動産 公告</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
@@ -38,7 +38,7 @@
 </head>
 <body>
   <header>
-    <h1>株式会社〇〇 公告ページ</h1>
+    <h1>株式会社エイトドリーム不動産 公告ページ</h1>
     <p>当社の公告事項を本ページに掲載いたします。</p>
   </header>
 
@@ -46,16 +46,11 @@
     <h2>現在の公告</h2>
     <p>現在、公告事項はありません。</p>
     <!-- 公告が必要になった際は、以下に公告内容を掲載します -->
-    <!-- 例：
-    <p>第〇期 決算公告<br>
-    2025年3月31日<br>
-    株式会社〇〇<br>
-    代表取締役 〇〇〇〇</p>
-    -->
+  
   </main>
 
   <footer>
-    <p>&copy; 2025 株式会社〇〇 All Rights Reserved.</p>
+    <p>&copy; 2025 株式会社エイトドリーム不動 All Rights Reserved.</p>
   </footer>
 </body>
 </html>
